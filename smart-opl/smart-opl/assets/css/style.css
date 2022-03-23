@@ -1005,7 +1005,7 @@ p {
   position: fixed;
   top: 0;
   right: 0;
-  background-color: #f4f6f7;
+  background-color: #f8f8f8;
   height: 100%;
   width: 300px;
   padding-top: 80px;
@@ -1046,7 +1046,7 @@ p {
       line-height: 24px;
       font-weight: 700;
       padding: 11px 16px;
-      color: #121212;
+      color: #e95b30;
       text-transform: uppercase;
       position: relative;
       border-radius: 5px;
@@ -1064,7 +1064,7 @@ p {
     .sidebar-right .sidebar-content .sidebar-social span {
       font-size: 16px;
       line-height: 24px;
-      color: #6c6c6c;
+      color: #76807e;
       text-transform: uppercase;
       font-weight: 700;
       margin-right: 14px; }
@@ -1073,7 +1073,7 @@ p {
       margin-right: 5px; }
       .sidebar-right .sidebar-content .sidebar-social ul li a {
         font-size: 32px;
-        color: #38f9d7;
+        color: #f86c2b;
         -webkit-transition: all 0.3s ease-out 0s;
         -moz-transition: all 0.3s ease-out 0s;
         -ms-transition: all 0.3s ease-out 0s;
@@ -1121,8 +1121,8 @@ p {
         .slider-area .bd-example .carousel .carousel-inner .carousel-item .carousel-caption .carousel-title {
           font-size: 44px;
           font-weight: 700;
-          color: #fff;
-          line-height: 55px; }
+          color: rgb(247, 245, 244);
+          line-height: 45px; }
           @media (max-width: 767px) {
             .slider-area .bd-example .carousel .carousel-inner .carousel-item .carousel-caption .carousel-title {
               font-size: 24px;
