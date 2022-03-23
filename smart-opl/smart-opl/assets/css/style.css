@@ -186,7 +186,7 @@ p {
       height: 100%;
       border-style: solid;
       /* Spinner Color */
-      border-color: #38f9d7 #38f9d7 #cbced1;
+      border-color: #d17878 #f95538 #d1cbcb;
       border-radius: 50%;
       border-width: 6px; }
     .preloader .loader .ytp-spinner-left .ytp-spinner-circle {
@@ -441,8 +441,8 @@ p {
 .rounded-buttons .main-btn {
   border-radius: 50px; }
 .rounded-buttons .rounded-one {
-  border-color: #38f9d7;
-  color: #38f9d7; }
+  border-color: #f9ac38;
+  color: #f96538; }
   .rounded-buttons .rounded-one:hover {
     background-color: rgba(56, 249, 215, 0.4); }
 .rounded-buttons .rounded-two {
@@ -628,7 +628,7 @@ p {
     .navbar-area .navbar .navbar-toggler .toggler-icon {
       width: 30px;
       height: 2px;
-      background-color: #121212;
+      background-color: #c75d20;
       margin: 5px 0;
       display: block;
       position: relative;
@@ -659,7 +659,7 @@ p {
         top: 108%;
         left: 0;
         width: 100%;
-        background-color: #f4f6f7;
+        background-color: #48ecec;
         z-index: 8;
         padding: 10px 16px;
         -webkit-box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
@@ -671,7 +671,7 @@ p {
         top: 108%;
         left: 0;
         width: 100%;
-        background-color: #f4f6f7;
+        background-color: #b6b7b8;
         z-index: 8;
         padding: 10px 16px;
         -webkit-box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
@@ -692,7 +692,7 @@ p {
           line-height: 24px;
           font-weight: 700;
           padding: 11px 16px;
-          color: #fff;
+          color: rgb(233, 130, 61);
           text-transform: uppercase;
           position: relative;
           border-radius: 5px;
@@ -719,7 +719,7 @@ p {
             content: '';
             width: 32px;
             height: 4px;
-            background-color: #fff;
+            background-color: rgb(240, 240, 240);
             left: 50%;
             bottom: 0;
             -webkit-transition: all 0.3s ease-out 0s;
