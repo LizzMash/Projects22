@@ -1121,7 +1121,7 @@ p {
         .slider-area .bd-example .carousel .carousel-inner .carousel-item .carousel-caption .carousel-title {
           font-size: 44px;
           font-weight: 700;
-          color: rgb(247, 245, 244);
+          color: rgb(255, 255, 255);
           line-height: 45px; }
           @media (max-width: 767px) {
             .slider-area .bd-example .carousel .carousel-inner .carousel-item .carousel-caption .carousel-title {
@@ -1253,7 +1253,7 @@ p {
     .header-hero .header-content .header-title {
       font-size: 44px;
       line-height: 55px;
-      color: #121212;
+      color: #160707;
       font-weight: 600; }
       @media (max-width: 767px) {
         .header-hero .header-content .header-title {
@@ -1262,7 +1262,7 @@ p {
     .header-hero .header-content .text {
       font-size: 20px;
       line-height: 32px;
-      color: #6c6c6c;
+      color: #ffffff;
       margin-top: 16px; }
       @media (max-width: 767px) {
         .header-hero .header-content .text {
@@ -1309,7 +1309,7 @@ p {
     font-size: 44px;
     font-weight: 600;
     line-height: 55px;
-    color: #121212; }
+    color: #131010; }
     @media (max-width: 767px) {
       .about-area .section-title .title {
         font-size: 22px;
@@ -1524,7 +1524,7 @@ p {
     transition: all 0.3s ease-out 0s;
     border-radius: 4px; }
   .portfolio-menu ul li:hover, .portfolio-menu ul li.active {
-    color: #38f9d7; }
+    color: #ff6537; }
     .portfolio-menu ul li:hover::before, .portfolio-menu ul li.active::before {
       opacity: 1; }
 
@@ -1567,7 +1567,7 @@ p {
         margin: 0 20px; }
         .single-portfolio .portfolio-image .portfolio-overlay .portfolio-content .portfolio-icon a {
           font-size: 48px;
-          color: #38f9d7;
+          color: #e95d33;
           position: relative;
           z-index: 5;
           line-height: 50px; }
@@ -1578,7 +1578,7 @@ p {
 .single-portfolio .portfolio-text {
   padding-top: 16px; }
   .single-portfolio .portfolio-text .portfolio-title a {
-    color: #121212;
+    color: #0c0e0d;
     font-size: 24px;
     line-height: 30px;
     -webkit-transition: all 0.3s ease-out 0s;
